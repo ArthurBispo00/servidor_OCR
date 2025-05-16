@@ -38,7 +38,7 @@ function extrairPlaca(textoCompleto) {
   const placaRegexMercosul = /^[A-Z]{3}[0-9]{1}[A-Z]{1}[0-9]{2}$/; // Formato LLLNLNN
 
   const correcaoParaLetra = { '0': 'O', '1': 'I', '8': 'B', '5': 'S', '2': 'Z' };
-  const correcaoParaNumero = { 'O': '0', 'I': '1', 'B': '8', 'S': '5', 'Z': '2' };
+  const correcaoParaNumero = { 'O': '0', 'I': '1', 'B': '8', 'S': '5', 'Z': '2','G': '0' };
 
   for (let palavraOriginal of palavras) {
     const palavraLimpa = palavraOriginal.replace(/[^A-Z0-9]/g, '');
