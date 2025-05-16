@@ -1,0 +1,16 @@
+# Dependências
+node_modules/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Pasta de uploads (se aplicável)
+uploads/
+
+# Logs
+*.log
+npm-debug.log*
+# ... outros arquivos de log
+
+# ARQUIVO DA CHAVE DO GOOGLE CLOUD VISION API (substitua pelo nome EXATO do seu arquivo!)
+vision-key.json
