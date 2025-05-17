@@ -107,4 +107,4 @@ Este servidor é um componente crucial do sistema "Radar Motu", fornecendo a fun
 
 ---
 
-Este `README.md` deve cobrir os pontos principais para que seu professor (ou qualquer pessoa) entenda e consiga rodar seu servidor de OCR. Lembre-se de criar um arquivo `package.json` para seu servidor se ainda não tiver (`npm init -y`) e adicionar as dependências (`npm install express multer cors @google-cloud/vision dotenv`).
+Desenvolvido por : [Arthur Bispo de Lima](https://github.com/ArthurBispo00) e [João Paulo Moreira dos Santos](https://github.com/joao1015)
