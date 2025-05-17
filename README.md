@@ -50,8 +50,8 @@ Este servidor é um componente crucial do sistema "Radar Motu", fornecendo a fun
 
 1.  **Clone o Repositório (se estiver em um repositório separado):**
     ```bash
-    git clone <url_do_seu_repositorio_servidor_ocr>
-    cd <pasta_do_servidor_ocr>
+    git clone https://github.com/ArthurBispo00/servidor_OCR
+    cd servidor_OCR
     ```
 
 2.  **Instale as Dependências:**
